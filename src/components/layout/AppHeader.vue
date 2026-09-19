@@ -55,7 +55,7 @@
 
     <a
       class="upvote-btn"
-      href="https://www.appbuildersph.com"
+      href="https://www.appbuildersph.com/apps/receipt8"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Upvote Receipt8 on Product Hunt"
